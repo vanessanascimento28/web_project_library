@@ -323,7 +323,7 @@
 .step {
   margin-right: 40px;
   width: 220px;
-  flex-basis: unset;
+  flex-basis: 220px;
 }
 
 .step__title {
