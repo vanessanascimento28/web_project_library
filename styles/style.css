@@ -317,13 +317,13 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
-  column-gap: 24px;
+  column-gap: 40px;
 }
 
 .step {
   margin-right: 40px;
   width: 220px;
-  flex-basis: auto;
+  flex-basis: initial;
 }
 
 .step__title {
@@ -345,7 +345,7 @@
 
 .footer {
   box-sizing: border-box;
-  background: #1f1f1f;
+  background-color: #1f1f1f;
   padding: 60px 80px;
 }
 
@@ -362,11 +362,14 @@
 }
 
 .footer__logo {
+  width: 58px;
+  height: 80px;
 }
 
 .footer__column-heading {
   color: #ffffff;
   font-weight: normal;
+  margin-bottom: 20px;
 }
 
 .footer__list {
@@ -398,4 +401,5 @@
 
 .footer__copyright {
   color: #ffffff;
+  margin-top: 100px;
 }
