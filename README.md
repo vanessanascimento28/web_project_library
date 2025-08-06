@@ -38,6 +38,10 @@ O projeto serviu como base para os próximos passos no front-end e me ajudou a e
 - Adicionar interações com JavaScript no menu  
 - Tornar o menu acessível com suporte a teclado  
 
+**🌐 Link da Página**
+
+🖥️ Visualize aqui: [https://vanessanascimento28.github.io/web_project_library/](https://vanessanascimento28.github.io/web_project_library/)
+
 ---
 
 **📂 Repositório GitHub**
